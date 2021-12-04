@@ -1,4 +1,10 @@
-*{margin: 0 auto; padding: 0%; box-sizing: border-box;}
+@import url ('https://fonts.googleapis.com/css2? família = Corinthia &família = Aberto + Sans + Condensado: wght @ 300; 700 & display = swap');
+*{
+    margin: 0 auto;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
 
 #menu-h{
     list-style: none;
@@ -6,12 +12,15 @@
     background-color: rgba(37, 37, 39, 0.13);}
 
 #menu-h li{ 
-    color: rgb(35, 15, 145);
+    display: inline;
+
+}  
+
+#menu-h li a {
+    color: #fff;
     padding: 10px;
     display: inline-block;
     text-decoration: none;
-    display: inline; }  
-
-#menu-h li a {
+    display: inline;
 
   
