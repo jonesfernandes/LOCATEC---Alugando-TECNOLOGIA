@@ -9,6 +9,7 @@
     list-style: none;
     padding: 0%;
     background-color: rgba(235, 231, 231, 0.13);
+    
      }
 
 #menu-h li{ 
@@ -20,7 +21,7 @@
 
 #menu-h li a {
     color:#e7886b;
-    padding: 10px;
+    padding: 130px;
     display: inline-block;
     text-decoration: none;
     display: inline;
